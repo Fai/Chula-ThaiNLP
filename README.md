@@ -1,5 +1,6 @@
-# ThaiNLP-Chula
-Learning and Exercises from ThaiNLP Courses
+# Chula-ThaiNLP
+[My Lecture Notes](https://ruchida.notion.site/ThaiNLP-f7cfe2e1575149dcb936076300a66cb7) and Hand-ons exercises from ThaiNLP Courses by Ajarn Attapol.
+
 ## [NLP I](https://attapol.github.io/programming/)
 - Computational Thinking
 - Python Programming
